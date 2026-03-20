@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mbvb1312 / VICKY .
-- 👀 I’m interested in games both physical and mental
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning RAG
 - 💞️ I’m looking to collaborate on AI/ML Projects
 - 📫 How to reach me mbvb1312@gmail.com OR vicky.mub @insta
 - 😄 Pronouns: he/him
