@@ -15,7 +15,7 @@
 
 <!-- SOCIAL LINKS - VISUAL ICONS -->
 <a href="https://vigneshbalamurugan.me"><img src="https://img.shields.io/badge/🌐_Portfolio-vigneshbalamurugan.me-6c3ce0?style=for-the-badge" /></a>&nbsp;
-<a href="https://linkedin.com/in/vignesh-balamurugan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mbvb1312"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:vigneshbalamurugan.m23@iiits.in"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://instagram.com/vicky.mub"><img src="https://img.shields.io/badge/@vicky.mub-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
@@ -326,7 +326,7 @@ I'm passionate about building **production-grade AI systems** — from multi-age
 
 <a href="https://vigneshbalamurugan.me"><img src="https://img.shields.io/badge/🌐_Portfolio-vigneshbalamurugan.me-6c3ce0?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
 <a href="mailto:vigneshbalamurugan.m23@iiits.in"><img src="https://img.shields.io/badge/📧_Email-Reach_Out-EA4335?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
-<a href="https://linkedin.com/in/vignesh-balamurugan"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mbvb1312"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
 <a href="mailto:mbvb1312@gmail.com"><img src="https://img.shields.io/badge/📬_Alt_Email-mbvb1312@gmail.com-F59E0B?style=for-the-badge&labelColor=0d1117" /></a>
 
 <br/><br/>
