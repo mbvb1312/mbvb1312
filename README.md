@@ -1,383 +1,344 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c3ce0&height=220&section=header&text=VIGNESH%20BALAMURUGAN%20M.B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Orchestration%20%E2%80%A2%20RAG%20Systems%20%E2%80%A2%20Agentic%20AI&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c3ce0,50:a855f7,100:ec4899&height=250&section=header&text=VIGNESH%20BALAMURUGAN%20M.B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=%E2%9A%A1%20AI%20Engineer%20%E2%80%A2%20LLM%20Architect%20%E2%80%A2%20RAG%20Specialist%20%E2%80%A2%20Agentic%20AI%20Builder&descSize=18&descAlignY=52&descAlign=50" width="100%"/>
+
+<!-- OPEN TO WORK BANNER -->
+<img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-AI/ML_Engineer_|_LLM_Engineer_|_Research_Roles-00C853?style=for-the-badge&labelColor=1a1b27" />
+
+<br/><br/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=%F0%9F%A7%A0+Building+Multi-Agent+LLM+Systems+%7C+RAG+Pipelines+%7C+Knowledge+Graphs;%F0%9F%94%AC+Research+Intern+%40+NIT+Trichy+%7C+B.Tech+AI%26DS+%40+IIIT+Sri+City" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%94%97+Multi-Hop+RAG+%7C+%F0%9F%A4%96+Agentic+AI+%7C+%F0%9F%A7%A0+LLM+Orchestration;%F0%9F%8F%97%EF%B8%8F+Production+Systems+%7C+%F0%9F%94%AC+Research+%40+NIT+Trichy+%7C+%F0%9F%8E%93+IIIT+Sri+City" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vigneshbalamurugan.me-6c3ce0?style=for-the-badge&logoColor=white)](https://vigneshbalamurugan.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-balamurugan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshbalamurugan.m23@iiits.in)
-[![Instagram](https://img.shields.io/badge/@vicky.mub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vicky.mub)
+<!-- SOCIAL LINKS - VISUAL ICONS -->
+<a href="https://vigneshbalamurugan.me"><img src="https://img.shields.io/badge/🌐_Portfolio-vigneshbalamurugan.me-6c3ce0?style=for-the-badge" /></a>&nbsp;
+<a href="https://linkedin.com/in/vignesh-balamurugan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:vigneshbalamurugan.m23@iiits.in"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/vicky.mub"><img src="https://img.shields.io/badge/@vicky.mub-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=mbvb1312&label=Profile%20Views&color=6c3ce0&style=for-the-badge" alt="Profile Views"/>
-<a href="https://github.com/mbvb1312?tab=followers"><img src="https://img.shields.io/github/followers/mbvb1312?label=Followers&style=for-the-badge&color=1a1b27&labelColor=6c3ce0" alt="Followers"/></a>
+<!-- PROFILE METRICS -->
+<img src="https://komarev.com/ghpvc/?username=mbvb1312&label=Profile+Views&color=6c3ce0&style=for-the-badge" alt="Views"/>
+&nbsp;
+<a href="https://github.com/mbvb1312?tab=followers"><img src="https://img.shields.io/github/followers/mbvb1312?label=Followers&style=for-the-badge&color=a855f7&labelColor=1a1b27" /></a>
+&nbsp;
+<a href="https://github.com/mbvb1312?tab=repositories"><img src="https://img.shields.io/badge/Repos-15+-ec4899?style=for-the-badge&labelColor=1a1b27" /></a>
 
 </div>
 
----
+<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+<!-- HORIZONTAL DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```yaml
-Name: Vignesh Balamurugan M.B
-Location: Chennai, India
-Education: B.Tech — Artificial Intelligence & Data Science @ IIIT Sri City
-Research: Summer Intern @ NIT Trichy (Vision Transformers + LSTMs)
-Focus: LLM Orchestration | RAG Engineering | Agentic AI | Knowledge Graphs
-Paper: Human Activity Recognition (under review)
-Pronouns: he/him
-Fun Fact: I touch grass frequently 🌱
-```
-
-> *AI/ML Engineer with hands-on experience in deep learning, NLP, LLM orchestration, RAG systems, and production-grade deployment. Proven track record through a research internship at NIT Trichy — delivering **18% accuracy improvement** and **22% inference latency reduction**. Passionate about building intelligent systems that solve real-world problems at scale.*
-
----
-
-## 🏗️ What I'm Building
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; Who Am I
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🔮 Core Focus Areas
-- 🧠 **Multi-Agent LLM Orchestration** — Sequential, Parallel, DAG & Hierarchical topologies
-- 🔗 **RAG Engineering** — Multi-hop retrieval, evidence synthesis, knowledge graphs
-- 🤖 **Agentic AI** — Self-healing loops, LLM-as-judge, tool-augmented agents
-- 📊 **Context & Prompt Engineering** — Advanced prompt design for production systems
-- 🌐 **LangGraph & Graph-Based Models** — Graph-native reasoning pipelines
+```yaml
+name: "Vignesh Balamurugan M.B"
+role: "AI/ML Engineer"
+location: "Chennai, India 🇮🇳"
+education:
+  degree: "B.Tech — AI & Data Science"
+  university: "IIIT Sri City"
+  academics: "CBSE XII: 94% | X: 94.8%"
+research:
+  institution: "NIT Trichy"
+  supervisor: "Prof. M Sridevi"
+  topic: "Human Activity Recognition (ViT + LSTM)"
+  impact: "18% accuracy ↑ | 22% latency ↓"
+  status: "Paper under review"
+specialization:
+  - "LLM Orchestration & Multi-Agent Systems"
+  - "RAG Engineering & Knowledge Graphs"
+  - "Agentic AI with Self-Healing Loops"
+  - "Computer Vision & Deep Learning"
+  - "Responsible AI & Bias Mitigation"
+open_to: "Full-time roles, Research, Collaborations"
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🎯 Currently Working On
-- 🚀 **Meta-Agent Framework** — Dynamic multi-agent pipeline orchestration
-- 📝 **STRIDE Research Paper** — Lane detection via motion-derived inference
-- 🛡️ **Responsible AI** — Bias mitigation in deep learning systems
-- 🏙️ **Smart City AI** — GIS-based urban safety intelligence
-- 💼 **Enterprise AI Platforms** — Production-grade multi-agent systems
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mbvb1312&bg_color=0d1117&color=a855f7&line=6c3ce0&point=ec4899&area=true&area_color=6c3ce020&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+</div>
+
+<br/>
+
+### 🎯 Currently Seeking
+<div align="center">
+
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-6c3ce0?style=flat-square)
+![LLM Engineer](https://img.shields.io/badge/LLM_Engineer-a855f7?style=flat-square)
+![ML Engineer](https://img.shields.io/badge/ML_Engineer-ec4899?style=flat-square)
+![Research Engineer](https://img.shields.io/badge/Research_Engineer-3b82f6?style=flat-square)
+![GenAI Developer](https://img.shields.io/badge/GenAI_Developer-10b981?style=flat-square)
+
+</div>
+
+> 💬 *Feel free to reach out for opportunities, collaborations, or just to chat about AI!*
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🧠 AI / ML / DL
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+### 🧠 AI / ML / Deep Learning
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" /><br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-8B5CF6?style=for-the-badge)
+![DeBERTa](https://img.shields.io/badge/DeBERTa--v3-009688?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-1a1b27?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Engineering-6c3ce0?style=for-the-badge)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=graphql&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![DeBERTa](https://img.shields.io/badge/DeBERTa--v3-NLI-009688?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
-![DPR](https://img.shields.io/badge/Dense_Passage_Retrieval-4285F4?style=flat-square)
-![LoRA](https://img.shields.io/badge/LoRA_Fine--Tuning-8B5CF6?style=flat-square)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-1a1b27?style=flat-square)
+### ⚙️ Backend & Infrastructure
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kafka,postgres,mongodb,redis&theme=dark" /><br/>
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-### 🔧 Backend & Infrastructure
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kafka,postgres,mongodb,redis&theme=dark" />
+### 🎨 Frontend & Viz
+<img src="https://skillicons.dev/icons?i=react,html,css,js,vite&theme=dark" /><br/>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
-### 🎨 Frontend & Visualization
-<img src="https://skillicons.dev/icons?i=react,html,css,js,vite&theme=dark" />
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-
-### ⚙️ MLOps & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux&theme=dark" />
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+### 🔄 MLOps & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux&theme=dark" /><br/>
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mbvb1312&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-> *Click on any project card to explore the repository*
+> 🔬 *Production-grade AI systems, research implementations & full-stack applications*
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><h3>🔗 RAG Fact Verification — Multi-Hop Evidence Chain System</h3></summary>
 
-### 🔗 [RAG Fact Verification System](https://github.com/mbvb1312/RAG-FACT-VERIFICATION-USING-DEBERTA-AND-WIKIPEDIA-EMBEDDING-)
-<img src="https://img.shields.io/badge/Production--Grade-RAG_Pipeline-8B5CF6?style=for-the-badge"/>
+<table><tr><td>
 
-> **Multi-hop fact verification** with Wikipedia retrieval, DeBERTa-v3 NLI, and hybrid TF-IDF/DPR search fused via RRF
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-6c3ce0?style=for-the-badge&logo=github)](https://github.com/mbvb1312/RAG-FACT-VERIFICATION-USING-DEBERTA-AND-WIKIPEDIA-EMBEDDING-)
+![Stars](https://img.shields.io/github/stars/mbvb1312/RAG-FACT-VERIFICATION-USING-DEBERTA-AND-WIKIPEDIA-EMBEDDING-?style=for-the-badge&color=f59e0b&labelColor=1a1b27)
 
-**Architecture Highlights:**
-- 🔄 3-hop iterative evidence chain building
-- 🧬 Cross-reference evidence synthesizer
-- ⚖️ Intelligent weighted NLI voting system
-- 📊 Prometheus + Grafana monitoring stack
-- 🔬 MLflow experiment tracking + LoRA fine-tuning
-- 🐳 Docker Compose full-stack deployment
-- ✅ CI/CD via GitHub Actions
+**Production-grade multi-hop fact verification** — retrieves evidence from Wikipedia in real-time, constructs 3-hop evidence chains, synthesizes cross-referenced evidence, and verifies claims using NLI with explainable reasoning.
 
-`Python` `FastAPI` `DeBERTa` `FAISS` `DPR` `Docker` `MLflow`
+| Component | Technology |
+|:---|:---|
+| 🧠 NLI Model | DeBERTa-v3-base (MNLI+FEVER+ANLI) |
+| 🔍 Retrieval | TF-IDF + DPR/FAISS + Wikipedia API (RRF Fusion) |
+| 🔗 Evidence | Multi-hop chain builder + cross-reference synthesizer |
+| ⚡ API | FastAPI + Uvicorn + Docker Compose |
+| 📊 Monitoring | Prometheus + Grafana dashboards |
+| 🔬 MLOps | MLflow tracking + LoRA fine-tuning + DVC pipelines |
+| ✅ CI/CD | GitHub Actions → lint → test → Docker → deploy |
 
-</td>
-<td width="50%" valign="top">
+```
+Claim → [Normalizer] → [Multi-Angle Decomposition] → [3-Hop Retrieval]
+  → [Evidence Chain Builder] → [Cross-Reference Synthesizer]
+    → [Weighted NLI Voting] → ✅ SUPPORTS / ❌ REFUTES / ❓ NOT ENOUGH INFO
+```
 
-### 🛡️ [Ethical AI — Bias Mitigation Pipeline](https://github.com/mbvb1312/ETHICAL-AND-RESPONSIBLE-AI-BIAS-MITIGATION-PIPELINE-)
-<img src="https://img.shields.io/badge/Responsible_AI-Fairness_Audit-10B981?style=for-the-badge"/>
+</td></tr></table>
+</details>
 
-> **End-to-end fairness audit** of deepfake detection — bias detection, mitigation & explainability
+<details open>
+<summary><h3>🛡️ Ethical AI — Bias Mitigation in DeepFake Detection</h3></summary>
 
-**Key Results:**
-- 📉 Reduced Equal Opportunity gap from **~26% → ~3.5%**
-- 🎯 Only **2-3% accuracy trade-off** for massive fairness gains
-- 🔍 4 fairness metrics × 2 demographic attributes
-- 🧠 Grad-CAM explainability visualizations
-- 📊 Multi-objective threshold calibration
-- 🌐 Flask + Streamlit interactive dashboards
-- 📄 Full technical report included
+<table><tr><td>
 
-`TensorFlow` `ResNet50` `Grad-CAM` `Flask` `Streamlit` `SciPy`
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-10b981?style=for-the-badge&logo=github)](https://github.com/mbvb1312/ETHICAL-AND-RESPONSIBLE-AI-BIAS-MITIGATION-PIPELINE-)
 
-</td>
-</tr>
+**End-to-end responsible AI pipeline** — audits a deepfake detection CNN for demographic bias, applies post-processing threshold calibration, and visualizes results through interactive dashboards.
 
-<tr>
-<td width="50%" valign="top">
+| 📊 Metric | Before Mitigation | After Mitigation | 
+|:---|:---:|:---:|
+| Equal Opportunity Gap | ~26% ❌ | **~3.5%** ✅ |
+| Accuracy Trade-off | — | Only **2-3%** cost |
+| Demographic Parity | ~4% ✅ | **~1-3%** ✅ |
 
-### 👁️ [Crowd Stampede Risk Predictor](https://github.com/mbvb1312/COMPUTER-VISION---stampede-RISK-region-prediction)
-<img src="https://img.shields.io/badge/Computer_Vision-Public_Safety-F59E0B?style=for-the-badge"/>
+**Pipeline:** ResNet50 CNN → 4 Fairness Metrics × 2 Demographics → Statistical Testing → Multi-Objective Threshold Calibration → Grad-CAM Explainability → Flask/Streamlit Dashboard
 
-> **Real-time stampede risk detection** from aerial drone footage using deep learning
+</td></tr></table>
+</details>
 
-**Architecture:**
-- 🏗️ Dual-Head CANNet (ResNet-34 FPN backbone)
-- 📍 Density estimation + person localization heads
-- 🎬 Temporal grid-based risk assessment
-- 🚁 Optimized for aerial surveillance constraints
-- 📊 Multi-scale Context Module for global semantics
-- 📹 Video & image stream support
+<details open>
+<summary><h3>👁️ Crowd Stampede Risk Predictor — Real-Time Public Safety</h3></summary>
 
-`PyTorch` `ResNet-34` `FPN` `OpenCV` `CUDA`
+<table><tr><td>
 
-</td>
-<td width="50%" valign="top">
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-f59e0b?style=for-the-badge&logo=github)](https://github.com/mbvb1312/COMPUTER-VISION---stampede-RISK-region-prediction)
+![Stars](https://img.shields.io/github/stars/mbvb1312/COMPUTER-VISION---stampede-RISK-region-prediction?style=for-the-badge&color=f59e0b&labelColor=1a1b27)
 
-### 🗺️ [Chennai Night Safety Intelligence](https://github.com/mbvb1312/GIS-GEOSPATIAL_GOOGLE-MAP-ALTERNATIVE-)
-<img src="https://img.shields.io/badge/GIS_+_ML-Urban_Safety-3B82F6?style=for-the-badge"/>
+**Real-time stampede risk detection** from aerial drone footage using a **Dual-Head CANNet** (ResNet-34 FPN backbone).
 
-> **GIS-based safety routing** — alternative to Google Maps with safety-distance trade-off
+- 🏗️ **Density Head** — continuous density map for crowd counting
+- 📍 **Localization Head** — discrete heatmap for exact person positions
+- ⏱️ **Temporal Risk Engine** — grid-based rapid accumulation + inward flow detection
+- 🚁 Multi-scale Context Module optimized for aerial surveillance
 
-**Pipeline:**
-- 🌍 12+ geospatial datasets integrated (CCTV, police, streetlights, crime)
-- 🤖 Spatial-context MLP with 9-channel neighborhood features
-- 🛣️ Route-risk comparison engine
-- 📉 **10.5% peak risk reduction** achieved
-- 🗺️ Interactive web map visualization
-- 📊 Multi-criteria safety classification (5 classes)
+</td></tr></table>
+</details>
 
-`Python` `QGIS` `GeoPandas` `Folium` `Scikit-learn`
+<details>
+<summary><h3>🗺️ Chennai Night Safety Intelligence — GIS + ML Urban Safety</h3></summary>
 
-</td>
-</tr>
+<table><tr><td>
 
-<tr>
-<td width="50%" valign="top">
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-3b82f6?style=for-the-badge&logo=github)](https://github.com/mbvb1312/GIS-GEOSPATIAL_GOOGLE-MAP-ALTERNATIVE-)
+![Stars](https://img.shields.io/github/stars/mbvb1312/GIS-GEOSPATIAL_GOOGLE-MAP-ALTERNATIVE-?style=for-the-badge&color=f59e0b&labelColor=1a1b27)
 
-### 🧬 [RL for CRISPR Gene-Editing](https://github.com/mbvb1312/REINFORCEMENT_LEARING-AGENT-FOR-GENE-EDITING)
-<img src="https://img.shields.io/badge/Reinforcement_Learning-BioAI-EC4899?style=for-the-badge"/>
+**Google Maps alternative** with safety-distance trade-off routing. Integrated **12+ geospatial datasets** (CCTV, police, streetlights, crime heatmaps). Spatial-context MLP with 9-channel features achieving **10.5% peak risk reduction**.
 
-> **CRISPR gene-editing optimization** modeled as MDP with drift-aware hybrid RL
+`QGIS` `GeoPandas` `Scikit-learn` `Folium` `Raster/Vector Analysis`
 
-**Methods:**
-- 📐 Value Iteration + Policy Iteration (Model-Based)
-- 🎲 SARSA with ε-greedy exploration (Model-Free)
-- 🔄 Dyna-style Q-learning with drift model (Hybrid)
-- 📈 Non-stationary target drift handling
-- 🎬 Policy evolution animations (GIF/MP4)
+</td></tr></table>
+</details>
 
-`Python` `NumPy` `Matplotlib` `RL` `MDP`
+<details>
+<summary><h3>🚗 STRIDE — Intelligent Transportation (IEEE Research)</h3></summary>
 
-</td>
-<td width="50%" valign="top">
+<table><tr><td>
 
-### 🔗 [LinkSnip — URL Shortener + Product Intelligence](https://github.com/mbvb1312/LinkSnip)
-<img src="https://img.shields.io/badge/Full--Stack-NLP_Engine-6366F1?style=for-the-badge"/>
+**13-stage rule-based lane detection** from overhead surveillance — **zero training data required**. Uses Von Mises Mixture Models for angular clustering and edge-preserving guided-filter smoothing.
 
-> **Dual-module Flask app** — smart URL shortener + cross-platform product analysis engine
+| Metric | Result |
+|:---|:---:|
+| Mean Region IoU | **0.70** |
+| Direction Error | **6.0°** |
+| Top-3 Consistency | **83%** of scenes |
+| Statistical Significance | p = 7.2 × 10⁻⁴ |
 
-**Features:**
-- 🔗 URL shortening with custom aliases, expiry, QR codes
-- 🛒 Amazon + Flipkart cross-platform scraping
-- 💬 NLP sentiment analysis on product reviews
-- 📊 Interactive Chart.js visualizations
-- 🎨 Dark glassmorphism UI (850+ lines CSS)
-- 🔐 JWT auth with PBKDF2-SHA256
+📝 *Paper targeting IEEE AVSS / T-ITS / IEEE Access*
 
-`Flask` `BeautifulSoup` `NLP` `Chart.js` `SQLite`
+</td></tr></table>
+</details>
 
-</td>
-</tr>
+<details>
+<summary><h3>🧬 RL for CRISPR Gene-Editing | 🔗 LinkSnip | ⚡ FastAPI Task Manager</h3></summary>
 
-<tr>
-<td width="50%" valign="top">
+<table><tr><td>
 
-### 🚗 [STRIDE — Intelligent Transportation](https://github.com/mbvb1312/inteligent_transportation)
-<img src="https://img.shields.io/badge/Research-IEEE_Paper-0EA5E9?style=for-the-badge"/>
+| Project | Description | Tech |
+|:---|:---|:---|
+| 🧬 [**RL Gene-Editing**](https://github.com/mbvb1312/REINFORCEMENT_LEARING-AGENT-FOR-GENE-EDITING) | CRISPR optimization via Value/Policy Iteration, SARSA & Dyna-style drift-aware hybrid RL | `RL` `MDP` `NumPy` |
+| 🔗 [**LinkSnip**](https://github.com/mbvb1312/LinkSnip) | URL shortener + cross-platform product intelligence with NLP sentiment analysis | `Flask` `NLP` `Chart.js` |
+| ⚡ [**Task Manager**](https://github.com/mbvb1312/FAST-API-TASK-MANAGER-) | JWT-auth task management — [**Live Demo**](https://fastapi-task-manager-7c7a.onrender.com) | `FastAPI` `React` `Docker` |
+| 📊 [**Fraud Detection**](https://github.com/mbvb1312/ml-online-fraud-detection-system) | ML pipeline with 94.6% accuracy, 93% recall + Streamlit dashboard | `Scikit-learn` `Streamlit` |
+| 📈 [**Student Fatigue EDA**](https://github.com/mbvb1312/EDA-on-student-fatigue-level-) | Real-world survey data analysis with IQR outlier capping & correlation analysis | `Pandas` `Seaborn` `SciPy` |
 
-> **13-stage rule-based lane detection** from surveillance cameras — zero training data needed
+</td></tr></table>
+</details>
 
-**Innovations:**
-- 🏗️ 2-tier parallel virtual lattice (8×8 ROI grid)
-- 📐 Von Mises Mixture Model for angular clustering
-- 🔬 Edge-preserving guided-filter smoothing
-- 📊 **0.70 IoU** | **6.0° direction error**
-- 🎯 Top-3 finish in 83% of 47 test scenes
-- 📝 Paper targeting IEEE AVSS / T-ITS
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-`Python` `OpenCV` `NumPy` `SciPy` `NetworkX`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [FastAPI Task Manager](https://github.com/mbvb1312/FAST-API-TASK-MANAGER-)
-<img src="https://img.shields.io/badge/Full--Stack-Deployed_on_Render-22C55E?style=for-the-badge"/>
-
-> **Production-deployed** JWT-authenticated task management with React frontend
-
-**Stack:**
-- 🔐 JWT auth with bcrypt password hashing
-- ⚡ FastAPI + SQLAlchemy + Pydantic
-- ⚛️ React (Vite) frontend
-- 🐘 PostgreSQL (prod) / SQLite (test)
-- 🐳 Docker + multi-stage builds
-- ✅ 13 passing pytest tests
-- 🌐 [**Live Demo →**](https://fastapi-task-manager-7c7a.onrender.com)
-
-`FastAPI` `React` `PostgreSQL` `Docker` `Render`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Research & Publications
+## 🎓 Research & Certifications
 
 <div align="center">
 
-| 📄 Research | 🏛️ Institution | 📋 Status |
-|:---:|:---:|:---:|
-| **Human Activity Detection & Recognition** using Vision Transformers + LSTMs | NIT Trichy (Prof. M Sridevi) | 📝 Under Review |
-| **STRIDE** — Motion-Derived Lane Inference from Surveillance Cameras | IIIT Sri City | 📝 Targeting IEEE AVSS / T-ITS |
+### 📄 Publications
+| Research | Institution | Status |
+|:---|:---:|:---:|
+| **Human Activity Recognition** — Vision Transformers + LSTMs | NIT Trichy | 📝 Under Review |
+| **STRIDE** — Motion-Derived Lane Inference | IIIT Sri City | 📝 IEEE Submission |
+
+### 🏅 Certifications
+![ML](https://img.shields.io/badge/Supervised_ML-99.83%25-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![ALG](https://img.shields.io/badge/Advanced_Learning_Algorithms-100%25-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![DEL](https://img.shields.io/badge/Deloitte-Data_Analytics-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
 
 </div>
 
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-![Coursera](https://img.shields.io/badge/Supervised_ML:_Regression_&_Classification-99.83%25-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![Coursera](https://img.shields.io/badge/Advanced_Learning_Algorithms-100%25-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![Deloitte](https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mbvb1312&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6c3ce0&text_color=c9d1d9&ring_color=a855f7" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mbvb1312&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=555555" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mbvb1312&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9&ring_color=a855f7&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mbvb1312&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=555555" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbvb1312&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" width="35%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbvb1312&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" width="32%" />
 
 </div>
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mbvb1312/mbvb1312/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mbvb1312/mbvb1312/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mbvb1312/mbvb1312/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/mbvb1312/mbvb1312/output/github-snake-dark.svg" />
 </picture>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏛️ System Architecture — How I Think
-
-```mermaid
-graph LR
-    A["🎯 Problem"] --> B["📊 Data & Research"]
-    B --> C["🧠 Model Design"]
-    C --> D{"Architecture"}
-    D --> E["🔗 RAG Pipeline"]
-    D --> F["🤖 Multi-Agent"]
-    D --> G["👁️ Computer Vision"]
-    D --> H["📈 ML Pipeline"]
-    E --> I["⚡ FastAPI/Flask"]
-    F --> I
-    G --> I
-    H --> I
-    I --> J["🐳 Docker"]
-    J --> K["📊 Monitoring"]
-    K --> L["🚀 Production"]
-    
-    style A fill:#6c3ce0,color:#fff
-    style D fill:#8b5cf6,color:#fff
-    style I fill:#a855f7,color:#fff
-    style L fill:#10b981,color:#fff
-```
-
----
-
-## 📬 Let's Connect
+## 💼 Let's Work Together
 
 <div align="center">
 
-| 🌐 | 📧 | 💼 | 📸 | 📱 |
-|:---:|:---:|:---:|:---:|:---:|
-| [**vigneshbalamurugan.me**](https://vigneshbalamurugan.me) | [**vigneshbalamurugan.m23@iiits.in**](mailto:vigneshbalamurugan.m23@iiits.in) | [**LinkedIn**](https://linkedin.com/in/vignesh-balamurugan) | [**@vicky.mub**](https://instagram.com/vicky.mub) | [**mbvb1312@gmail.com**](mailto:mbvb1312@gmail.com) |
+<img src="https://img.shields.io/badge/🟢_ACTIVELY_LOOKING-For_AI/ML_Engineering_Roles-00C853?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+I'm passionate about building **production-grade AI systems** — from multi-agent LLM orchestration to real-time computer vision pipelines. If you're looking for someone who can take an AI project from **research to deployment**, let's connect!
 
 <br/>
 
-**💡 Open to collaborations on AI/ML projects, research opportunities, and full-time roles in AI Engineering.**
+<a href="https://vigneshbalamurugan.me"><img src="https://img.shields.io/badge/🌐_Portfolio-vigneshbalamurugan.me-6c3ce0?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:vigneshbalamurugan.m23@iiits.in"><img src="https://img.shields.io/badge/📧_Email-Reach_Out-EA4335?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="https://linkedin.com/in/vignesh-balamurugan"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:mbvb1312@gmail.com"><img src="https://img.shields.io/badge/📬_Alt_Email-mbvb1312@gmail.com-F59E0B?style=for-the-badge&labelColor=0d1117" /></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" width="70%" />
+
+<br/><br/>
+
+⭐ *If you find my work interesting, consider giving my repos a star!* ⭐
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c3ce0&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c3ce0,50:a855f7,100:ec4899&height=150&section=footer&text=Let's%20Build%20the%20Future%20of%20AI%20Together&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
